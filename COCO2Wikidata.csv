@@ -1,0 +1,81 @@
+COCO_label,wikidata_concepturi,wikidata_label,wikidata_description
+airplane,http://www.wikidata.org/entity/Q197,airplane,powered fixed-wing aircraft
+apple,http://www.wikidata.org/entity/Q89,apple,fruit of the apple tree
+backpack,http://www.wikidata.org/entity/Q5843,backpack,bag carried on one's back
+banana,http://www.wikidata.org/entity/Q503,banana,"elongated, edible fruit produced by several kinds of large herbaceous flowering plants in the genus Musa"
+baseball bat,http://www.wikidata.org/entity/Q809910,baseball bat,"club used for baseball, or as a weapon"
+baseball glove,http://www.wikidata.org/entity/Q809894,baseball glove,large leather glove worn by baseball players
+bear,http://www.wikidata.org/entity/Q30090244,bear,large carnivoran mammal of the family Ursidae
+bed,http://www.wikidata.org/entity/Q42177,bed,piece of furniture used as a place to sleep or relax
+bench,http://www.wikidata.org/entity/Q204776,bench,piece of furniture on which several people may sit at the same time
+bicycle,http://www.wikidata.org/entity/Q11442,bicycle,pedal-driven two-wheel vehicle
+bird,http://www.wikidata.org/entity/Q5113,bird,class of vertebrates
+blender,http://www.wikidata.org/entity/Q501862,blender,type of home appliance
+boat,http://www.wikidata.org/entity/Q35872,boat,smaller watercraft
+book,http://www.wikidata.org/entity/Q571,book,medium for recording information (words or images) typically on bound pages or more abstractly in electronic or audio form
+bottle,http://www.wikidata.org/entity/Q80228,bottle,cylindrical container
+bowl,http://www.wikidata.org/entity/Q153988,bowl,"round, open-top container frequently used as tableware"
+broccoli,http://www.wikidata.org/entity/Q47722,broccoli,edible green plant in the cabbage family
+bus,http://www.wikidata.org/entity/Q5638,bus,large road vehicle for transporting people
+cake,http://www.wikidata.org/entity/Q13276,cake,baked dessert
+car,http://www.wikidata.org/entity/Q1420,motor car,motorized road vehicle designed to carry one to eight people rather than primarily goods
+carrot,http://www.wikidata.org/entity/Q81,carrot,"root vegetable, usually orange in color"
+cat,http://www.wikidata.org/entity/Q146,house cat,domesticated feline
+chair,http://www.wikidata.org/entity/Q15026,chair,piece of furniture for sitting on
+clock,http://www.wikidata.org/entity/Q376,clock,instrument that measures the passage of time
+couch,http://www.wikidata.org/entity/Q131514,couch,piece of furniture for seating two or more persons in the form of a bench with armrests
+cow,http://www.wikidata.org/entity/Q11748378,cow,adult female cattle
+cup,http://www.wikidata.org/entity/Q81727,cup,vessel for liquids
+desk,http://www.wikidata.org/entity/Q1064858,desk,"case furniture used as a worksurface, often in a school or office setting"
+dining table,http://www.wikidata.org/entity/Q115665141,dining table,"table for dining, usually for formal meals"
+dog,http://www.wikidata.org/entity/Q144,dog,domestic animal
+door,http://www.wikidata.org/entity/Q36794,door,"flat, movable structure used to open and close an entrance"
+elephant,http://www.wikidata.org/entity/Q7378,elephant,large terrestrial mammals with trunks from Africa and Asia
+fire hydrant,http://www.wikidata.org/entity/Q634299,fire hydrant,connection point by which firefighters can tap into a water supply
+fork,http://www.wikidata.org/entity/Q81881,fork,utensil to spear food
+giraffe,http://www.wikidata.org/entity/Q15083,giraffe,umbrella species of Giraffa
+handbag,http://www.wikidata.org/entity/Q467505,handbag,"handled medium-to-large bag that is often fashionably designed, typically used by women, to hold personal items"
+hat,http://www.wikidata.org/entity/Q80151,hat,"shaped head covering, having a brim and a crown, or one of these"
+horse,http://www.wikidata.org/entity/Q726,horse,domesticated four-footed mammal from the equine family
+hot dog,http://www.wikidata.org/entity/Q181055,hot dog,"sausage in bun, usually with toppings"
+keyboard,http://www.wikidata.org/entity/Q1921606,keyboard,data input device
+kite,http://www.wikidata.org/entity/Q42861,kite,tethered aircraft often tied with a rope or string.
+knife,http://www.wikidata.org/entity/Q32489,knife,tool with a cutting edge or blade
+laptop,http://www.wikidata.org/entity/Q3962,laptop,foldable portable personal computer for mobile use
+microwave,http://www.wikidata.org/entity/Q127956,microwave oven,kitchen cooking appliance
+mirror,http://www.wikidata.org/entity/Q146701,mirror,transparent structure in the eye
+motorcycle,http://www.wikidata.org/entity/Q34493,motorcycle,two- or three-wheeled motor vehicle
+mouse,http://www.wikidata.org/entity/Q7987,mouse,hand-held device used to move a pointer on a computer display
+orange,http://www.wikidata.org/entity/Q13191,orange,citrus fruit of the orange tree
+oven,http://www.wikidata.org/entity/Q36539,oven,"enclosed chamber for heating other objects, often used to prepare food, finish ceramics, and purify substances"
+parking meter,http://www.wikidata.org/entity/Q953960,parking meter,device
+person,http://www.wikidata.org/entity/Q215627,person,being that has certain capacities or attributes constituting personhood (avoid use with P31; use Q5 for humans)
+pizza,http://www.wikidata.org/entity/Q177,pizza,popular Italian dish with a flat dough-based base and toppings
+plate,http://www.wikidata.org/entity/Q57216,plate,flat vessel on which food can be served
+potted plant,http://www.wikidata.org/entity/Q27993793,potted plant,plant grown in a container
+refrigerator,http://www.wikidata.org/entity/Q37828,refrigerator,household or industrial appliance for preserving food at a low temperature
+remote,http://www.wikidata.org/entity/Q185091,remote control,system or device used to control other device remotely (or wirelessly)
+sandwich,http://www.wikidata.org/entity/Q28803,sandwich,"any dish wherein bread serves as a container or wrapper for another food type; not to be confused with Q111836983 (the narrower sense of ""sandwich"")"
+scissors,http://www.wikidata.org/entity/Q40847,scissors,hand-operated cutting instrument
+sheep,http://www.wikidata.org/entity/Q7368,sheep,"domesticated ruminant bred for meat, wool, and milk"
+shoe,http://www.wikidata.org/entity/Q22676,shoe,footwear
+sink,http://www.wikidata.org/entity/Q140565,sink,bowl-shaped plumbing fixture used for washing hands
+skateboard,http://www.wikidata.org/entity/Q15783,skateboard,wheeled board used for skateboarding
+snowboard,http://www.wikidata.org/entity/Q2000617,snowboard,winter sport equipment
+spoon,http://www.wikidata.org/entity/Q81895,spoon,"utensil consisting of a small shallow bowl, oval or round, at the end of a handle"
+stop sign,http://www.wikidata.org/entity/Q250429,stop sign,A sign representing a temporary stop traffic regulation
+suitcase,http://www.wikidata.org/entity/Q200814,suitcase,form of luggage
+surfboard,http://www.wikidata.org/entity/Q457689,surfboard,platform board used in the sport of surfing
+teddy bear,http://www.wikidata.org/entity/Q213477,teddy bear,soft toy in the form of a bear
+tie,http://www.wikidata.org/entity/Q44416,necktie,"clothing item, traditionally worn by boys and men with dress shirt"
+toaster,http://www.wikidata.org/entity/Q14890,toaster,small oven for cooking bread
+toilet,http://www.wikidata.org/entity/Q7857,toilet,sanitation fixture
+toothbrush,http://www.wikidata.org/entity/Q134205,toothbrush,"oral hygiene instrument used to clean the teeth, gums, and tongue"
+traffic light,http://www.wikidata.org/entity/Q8004,traffic light,signalling device to control competing flows of traffic
+train,http://www.wikidata.org/entity/Q870,train,form of rail transport consisting of a series of connected vehicles
+truck,http://www.wikidata.org/entity/Q43193,truck,commercial or utilitarian large motor vehicle
+umbrella,http://www.wikidata.org/entity/Q41607,umbrella,canopy designed to protect against rain or sun
+vase,http://www.wikidata.org/entity/Q191851,vase,"open container, often used to hold cut flowers"
+window,http://www.wikidata.org/entity/Q35473,window,opening to admit light or air
+wine glass,http://www.wikidata.org/entity/Q1531435,wine glass,drinking vessel
+zebra,http://www.wikidata.org/entity/Q32789,zebra,Group of African mammal species in the genus Equus of the horse family
